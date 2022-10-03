@@ -20,7 +20,7 @@ import com.wdbyte.bing.html.WebSiteGenerator;
 public class Wallpaper {
 
     // BING API
-    private static String BING_API = "https://cn.bing.com/HPImageArchive.aspx?format=js&idx=0&n=10&nc=1612409408851&pid=hp&FORM=BEHPTB&uhd=1&uhdwidth=3840&uhdheight=2160";
+    private static String BING_API = "https://cn.bing.com/HPImageArchive.aspx?format=js&idx=0&mkt=zh-CN&n=10&nc=1612409408851&pid=hp&FORM=BEHPTB&uhd=1&uhdwidth=3840&uhdheight=2160";
 
     private static String BING_URL = "https://cn.bing.com";
 
