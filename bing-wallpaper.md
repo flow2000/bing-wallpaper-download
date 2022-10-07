@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2022-10-07 | [温德米尔湖的风景，坎布里亚湖区，英格兰 (© Chris Warren/eStock Photo)](https://cn.bing.com/th?id=OHR.WindermereHills_ZH-CN6614218161_UHD.jpg) 
+
 2022-10-06 | [巴斯克海岸世界地质公园的比斯开湾，西班牙 (© Olimpio Fantuz/eStock Photo)](https://cn.bing.com/th?id=OHR.BayofBiscay_ZH-CN6002214693_UHD.jpg) 
 
 2022-10-06 | [Caribbean flamingos, Ría Lagartos Biosphere Reserve, Yucatán Peninsula, Mexico (© Claudio Contreras/Minden Pictures)](https://cn.bing.com/th?id=OHR.FlamingoTeacher_EN-US8819896781_UHD.jpg) 
