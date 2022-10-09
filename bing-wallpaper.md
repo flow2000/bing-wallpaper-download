@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2022-10-09 | [楚科奇海的浮游植物水华，美国阿拉斯加州海岸附近 (© Norman Kuring/Kathryn Hansen/U.S. Geological Survey/NASA)](https://cn.bing.com/th?id=OHR.ChukchiSea_ZH-CN7218471261_UHD.jpg) 
+
 2022-10-08 | [佛得角附近大西洋中的玻璃章鱼 (© Solvin Zankl/Minden Pictures)](https://cn.bing.com/th?id=OHR.GlassOctopus_ZH-CN6853414529_UHD.jpg) 
 
 2022-10-07 | [温德米尔湖的风景，坎布里亚湖区，英格兰 (© Chris Warren/eStock Photo)](https://cn.bing.com/th?id=OHR.WindermereHills_ZH-CN6614218161_UHD.jpg) 
