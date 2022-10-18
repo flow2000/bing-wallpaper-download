@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2022-10-18 | [新娘面纱瀑布，优胜美地国家公园，美国加利福尼亚州 (© Jeff Foott/Minden Pictures)](https://cn.bing.com/th?id=OHR.BridalVeilFalls_ZH-CN0684766889_UHD.jpg) 
+
 2022-10-17 | [捷克共和国波希米亚-摩拉维亚高地的长耳鸮 (© Ondrej Prosicky/Alamy)](https://cn.bing.com/th?id=OHR.SwedenOwl_ZH-CN6960032096_UHD.jpg) 
 
 2022-10-16 | [克里斯蒂安王子之声，格陵兰岛 (© Posnov/Getty Images)](https://cn.bing.com/th?id=OHR.PrinceChristianSound_ZH-CN0274463143_UHD.jpg) 
