@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2022-10-19 | [秋天的图林根��林与瓦特堡城堡，德国 (© ezypix/Getty Images)](https://cn.bing.com/th?id=OHR.WartburgCastle_ZH-CN4201605751_UHD.jpg) 
+
 2022-10-18 | [新娘面纱瀑布，优胜美地国家公园，美国加利福尼亚州 (© Jeff Foott/Minden Pictures)](https://cn.bing.com/th?id=OHR.BridalVeilFalls_ZH-CN0684766889_UHD.jpg) 
 
 2022-10-17 | [捷克共和国波希米亚-摩拉维亚高地的长耳鸮 (© Ondrej Prosicky/Alamy)](https://cn.bing.com/th?id=OHR.SwedenOwl_ZH-CN6960032096_UHD.jpg) 
