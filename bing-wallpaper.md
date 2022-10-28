@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2022-10-28 | [洛桑日内瓦湖上空的暴风雨，瑞典 (© Suradech Singhanat/Shutterstock)](https://cn.bing.com/th?id=OHR.FrankensteinFriday_ZH-CN5814917673_UHD.jpg) 
+
 2022-10-27 | [意大利威尼斯的叹息桥 (© Doug Pearson/Alamy)](https://cn.bing.com/th?id=OHR.BridgeofSighs_ZH-CN5414607871_UHD.jpg) 
 
 2022-10-26 | [巴尔干中央国家公园的布罗肯现象，保加利亚 (© Maya Karkalicheva/Getty Images)](https://cn.bing.com/th?id=OHR.BrockenSpecter_ZH-CN5278743909_UHD.jpg) 
