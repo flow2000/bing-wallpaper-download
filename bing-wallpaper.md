@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2022-11-25 | [日出时分的蒂雷纳村庄，法国新阿基坦大区科雷兹省 (© Tim Mannakee/plainpicture)](https://cn.bing.com/th?id=OHR.TurenneSunrise_ZH-CN2357226217_UHD.jpg) 
+
 2022-11-24 | [坎彭万德山，基姆高地区阿绍，德国巴伐利亚州 (© Toni Anzenberger/plainpicture)](https://cn.bing.com/th?id=OHR.AschauChiemgau_ZH-CN1929016406_UHD.jpg) 
 
 2022-11-23 | [向日葵 (© Dileep Chandran/Alamy)](https://cn.bing.com/th?id=OHR.HelianthusAnnuus_ZH-CN1675762555_UHD.jpg) 
