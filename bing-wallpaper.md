@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2022-11-28 | [火星（© NASA/Alamy）](https://cn.bing.com/th?id=OHR.RedPlanetDay_ZH-CN4913018041_UHD.jpg) 
+
 2022-11-27 | [一片飘落在龙虾爪瓣上的号角树树叶，墨西哥 (© Gerry Ellis/Minden Pictures)](https://cn.bing.com/th?id=OHR.Cecropia_ZH-CN4236630074_UHD.jpg) 
 
 2022-11-26 | [意大利西西里岛康科迪亚神庙前的一棵橄榄树 (© Alfio Finocchiaro/Shutterstock)](https://cn.bing.com/th?id=OHR.OliveTreeDay_ZH-CN3960861965_UHD.jpg) 
