@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2022-12-08 | [威斯特曼森林，达特穆尔国家公园，英格兰德文郡 (© Richard Garvey-Williams/Alamy)](https://cn.bing.com/th?id=OHR.WistmansWood_ZH-CN4453301808_UHD.jpg) 
+
 2022-12-07 | [贾斯珀国家公园纠结溪瀑布，阿尔伯塔省，加拿大 (© Jeff Foott/Minden Pictures)](https://cn.bing.com/th?id=OHR.TangleCreekFalls_ZH-CN4281148652_UHD.jpg) 
 
 2022-12-06 | [大沼泽国家公园里的一只大白鹭，美国佛罗里达州 (© Troy Harrison/Getty Images)](https://cn.bing.com/th?id=OHR.GreatEgret_ZH-CN4088261519_UHD.jpg) 
