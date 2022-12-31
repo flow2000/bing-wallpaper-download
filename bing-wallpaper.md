@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2022-12-31 | [一起迎接2023年 (© GettyImages)](https://cn.bing.com/th?id=OHR.TheNationaDay_ZH-CN7631842209_UHD.jpg) 
+
 2022-12-30 | [白沙漠中的岩石，埃及 (© Anton Petrus/Getty Images)](https://cn.bing.com/th?id=OHR.ChalkRock_ZH-CN2893565655_UHD.jpg) 
 
 2022-12-29 | [斯托尔石山，天空之岛，苏格兰 (© Aliaume Chapelle/Tandem Stills + Motion)](https://cn.bing.com/th?id=OHR.StorrRocks_ZH-CN4956679462_UHD.jpg) 
