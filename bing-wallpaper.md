@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2023-01-01 | [北极熊斯瓦尔巴群岛，挪威 (© Dennis Stogsdill/Getty Images)](https://cn.bing.com/th?id=OHR.NorwayNYD_ZH-CN7856439066_UHD.jpg) 
+
 2022-12-31 | [一起迎接2023年 (© GettyImages)](https://cn.bing.com/th?id=OHR.TheNationaDay_ZH-CN7631842209_UHD.jpg) 
 
 2022-12-30 | [白沙漠中的岩石，埃及 (© Anton Petrus/Getty Images)](https://cn.bing.com/th?id=OHR.ChalkRock_ZH-CN2893565655_UHD.jpg) 
