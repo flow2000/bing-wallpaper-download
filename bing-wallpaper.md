@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2023-01-02 | [霍亨索伦城堡，德国 (© Sahara Prince/Shutterstock)](https://cn.bing.com/th?id=OHR.HohenzollernBurg_ZH-CN8109082566_UHD.jpg) 
+
 2023-01-01 | [北极熊斯瓦尔巴群岛，挪威 (© Dennis Stogsdill/Getty Images)](https://cn.bing.com/th?id=OHR.NorwayNYD_ZH-CN7856439066_UHD.jpg) 
 
 2022-12-31 | [一起迎接2023年 (© GettyImages)](https://cn.bing.com/th?id=OHR.TheNationaDay_ZH-CN7631842209_UHD.jpg) 
