@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2023-01-08 | [科罗拉多州布雷肯里奇 (© Sean Pavone/Shutterstock)](https://cn.bing.com/th?id=OHR.Breckenridge_ZH-CN9598860382_UHD.jpg) 
+
 2023-01-07 | [羊毛和马海毛纱线 (© Jurate Buiviene/Alamy)](https://cn.bing.com/th?id=OHR.Mohair_ZH-CN9435762268_UHD.jpg) 
 
 2023-01-06 | [英格兰湖区的Black Fell (© Daniel Kay/Shutterstock)](https://cn.bing.com/th?id=OHR.BlackFell_ZH-CN9224189688_UHD.jpg) 
