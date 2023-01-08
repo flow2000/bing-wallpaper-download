@@ -1,4 +1,6 @@
 ## Bing Wallpaper
+2023-01-09 | [南达科他州风洞国家公园的水牛 (© Charlie Summers/Minden Pictures)](https://cn.bing.com/th?id=OHR.BisonWindCave_ZH-CN9778045938_UHD.jpg) 
+
 2023-01-08 | [科罗拉多州布雷肯里奇 (© Sean Pavone/Shutterstock)](https://cn.bing.com/th?id=OHR.Breckenridge_ZH-CN9598860382_UHD.jpg) 
 
 2023-01-07 | [羊毛和马海毛纱线 (© Jurate Buiviene/Alamy)](https://cn.bing.com/th?id=OHR.Mohair_ZH-CN9435762268_UHD.jpg) 
